@@ -17,5 +17,5 @@ Note: `<your_initials>` should be your actual name
 | --- | ---| --- | --- | --- | --- |
 | In-Lab work | **X** | | | |
 | Mini-challenge | **X** | | | |
-| Challenge - Accuracy | **X** | | | |
+| Challenge | **X** | | | |
 | Challenges - Timely Submission | **X** | | | |
